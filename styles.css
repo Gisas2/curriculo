@@ -1,4 +1,4 @@
-img {
+#f-perfil {
     max-width: 40%;
     max-height: 50%;
     margin-top: 40%;
@@ -23,4 +23,5 @@ img {
     height: 100vh;
     float: left;
 }
+
 
