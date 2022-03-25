@@ -15,7 +15,21 @@ p {
     font-size: 13px;
     text-align: justify;
     margin-left: 20px;
+    color: #070707;
 }
+
+a {
+    text-decoration: none;
+    color: #ffeaec;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+h2 {
+    
+}
+
+
 #f-perfil {
     max-width: 40%;
     max-height: 50%;
@@ -28,18 +42,26 @@ p {
     border: 6px solid #eb7bc0;
 }
 
-#sobre {
-    background-color: #faf6f6;
-    width: 70%;
-    height: 100vh;
-    float: right;
-}
-
 #menu {
     background-color: #fcb5b5;
     width: 30%;
     height: 100vh;
     float: left;
+}
+
+.list {
+    font-family: Calibri;
+    color: #ffeaec;
+    text-align: center;
+    list-style-type: none;
+}
+
+
+#sobre {
+    background-color: #faf6f6;
+    width: 70%;
+    height: 100vh;
+    float: right;
 }
 .sobrenome {
     font-family:'Lucida Sans Unicode';
@@ -58,6 +80,14 @@ p {
     text-align: left;
     margin-left: 20px;
     color: #070707; 
+}
+
+#email {
+    color: #fcb5b5 ;
+}
+.icons {
+    text-align: justify;
+    margin-left: 20px;   
 }
 
 
