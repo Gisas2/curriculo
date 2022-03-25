@@ -1,3 +1,21 @@
+h1 {
+    font-family:'Lucida Sans Unicode';
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 40px;
+    text-align: left;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    color: #070707;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    text-align: justify;
+    margin-left: 20px;
+}
 #f-perfil {
     max-width: 40%;
     max-height: 50%;
@@ -22,6 +40,24 @@
     width: 30%;
     height: 100vh;
     float: left;
+}
+.sobrenome {
+    font-family:'Lucida Sans Unicode';
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 40px;
+    text-align: left;
+    margin-top: 150px;
+    color: #fcb5b5;
+}
+.endereço {
+    font-family:'Lucida Sans Unicode';
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+    color: #070707; 
 }
 
 
