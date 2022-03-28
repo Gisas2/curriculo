@@ -26,7 +26,13 @@ a {
 }
 
 h2 {
-    
+  color: #ff69eb;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+  text-shadow: 2px 2px 4px black;
+  margin-top: 40px;
+  margin-bottom: 0px;
 }
 
 
@@ -87,7 +93,24 @@ h2 {
 }
 .icons {
     text-align: justify;
-    margin-left: 20px;   
+    margin-left: 20px;
 }
+
+.lista-ordenada ol {
+    margin-top: 80px;
+    text-align: justify;
+    color: #0c0f0a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.lista-desordenada ul {
+    margin-top: 80px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #0c0f0a;
+    font-size: 20px;
+}
+
 
 
